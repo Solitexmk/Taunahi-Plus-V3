@@ -1,0 +1,18 @@
+[
+  {
+    "modid": "${modid}",
+    "name": "FarmHelper V2",
+    "description": "A helper for every farmer",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [
+      "You"
+    ],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
