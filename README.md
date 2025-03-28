@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # TaunahiTaunahi - Next Generation Skyblock Scripts
 
 **Stop overpaying for bad scripts - get Taunahi.**
@@ -101,3 +102,6 @@ By far the most advanced anti-staff out there. A system created by us called Hyd
 
 ### 📈 Scripting Sessions
 Taunahi has a spectacular unique feature: Sessions. For all scripting sessions, it will keep track of all statistics and events that happen, which you can look over in your dashboard to see total earnings, failsafes,
+=======
+# Taunahi-Plus-V3
+>>>>>>> 0ab2da202f0d09c89c8c5dfd13fc5171e9010127
