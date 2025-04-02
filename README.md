@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Taunahi - Next Generation Skyblock Scripts
 
 **Stop overpaying for bad scripts - get Taunahi.**
